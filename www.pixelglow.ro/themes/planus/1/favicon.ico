@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+	<head>
+		<link href="http://www.pixelglow.ro/wp-content/uploads/csp/favico/ " rel="shortcut icon"><!--[if IE]><link rel="SHORTCUT ICON" type="image/x-icon" href="http://www.pixelglow.ro/wp-content/uploads/csp/favico/"/><![endif]-->		<meta charset="UTF-8" />
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+		<title>Site is under construction</title>
+									<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Abel&subset=latin,cyrillic-ext" />
+							<link rel="stylesheet" type="text/css" href="http://www.pixelglow.ro/wp-content/plugins/coming-soon-maintenance-mode-ready/modules/csp_tpl_standard/css/style.css" />
+									
+		<script type="text/javascript">
+		// <!--
+			var CSP_DATA = {"siteUrl":"http:\/\/www.pixelglow.ro\/","imgPath":"http:\/\/www.pixelglow.ro\/wp-content\/plugins\/coming-soon-maintenance-mode-ready\/img\/","loader":"http:\/\/www.pixelglow.ro\/wp-content\/plugins\/coming-soon-maintenance-mode-ready\/img\/loading-cube.gif","close":"http:\/\/www.pixelglow.ro\/wp-content\/plugins\/coming-soon-maintenance-mode-ready\/img\/cross.gif","ajaxurl":"http:\/\/www.pixelglow.ro\/wp-admin\/admin-ajax.php","animationSpeed":null,"CSP_CODE":"csp"};
+		// -->
+		</script>				
+									<script type="text/javascript" src="http://www.pixelglow.ro/wp-includes/js/jquery/jquery.js"></script>
+							<script type="text/javascript" src="http://www.pixelglow.ro/wp-content/plugins/coming-soon-maintenance-mode-ready/js/common.js"></script>
+							<script type="text/javascript" src="http://www.pixelglow.ro/wp-content/plugins/coming-soon-maintenance-mode-ready/js/core.js"></script>
+							<script type="text/javascript" src="http://www.pixelglow.ro/wp-content/plugins/coming-soon-maintenance-mode-ready/modules/csp_tpl_standard/js/script.js"></script>
+							<script type="text/javascript" src="http://www.pixelglow.ro/wp-content/plugins/coming-soon-maintenance-mode-ready/modules/subscribe/js/frontend.subscribe.js"></script>
+							<!-- <style type="text/css">
+			html {  }
+		</style> -->
+			</head>
+	<body>
+                <style type="text/css">body {
+								background:url(http://www.pixelglow.ro/wp-content/uploads/csp/bg_img/Xdkp21Ge61-oISGfz1vTX-Ma3lXJoBQC-HDFRTwHoAB.jpg) center center no-repeat;
+								background-size: cover;
+							}</style>    
+        <div class="cspHtmlContainerWrapper">
+                                                    <div class="cspHtmlLogo">
+                    <img src="http://www.pixelglow.ro/wp-content/uploads/csp/logo_img/j37xPobbc2-EwTETw3nex-z7mtTp5VXj-47aYsQbuRd.png" />
+                </div>
+                        <div class="cspTextInfo">
+                                <h2 style="color:#ffffff;font-family:Abel;" class="cspTextInfoTitle">Website is Under Construction</h2>
+                                                <div style="color:#ffffff;font-family:Abel;" class="cspTextDescription">We apologize, but at this time our site does not work. But we promise you, very soon we will resume work. <br />
+We just want to improve our site for your comfort.Be among the first to see our new website! Just send your email using the form below and we will inform you.</div>
+                            </div>
+            <div style="clear: both;"></div>
+            			<div style="clear: both;"></div>
+                        <div class="cspSubscribeForm"><form action="" method="post" id="cspSubscribeForm">
+	<div class="cspFormHint">Enter your email to subscribe<span class="cspFormHintCorner"></span></div>
+		<input type="text" name="email" value="" id="subscribe_email" placeholder="Your Email" />		<input type="hidden" name="reqType" value="ajax"  />		<input type="hidden" name="page" value="subscribe"  />		<input type="hidden" name="action" value="create"  />		<input type="submit" name="create" value="Subscribe" id="cspSubscribeButton" />	<div id="cspSubscribeCreateMsg"></div>
+</form>
+</div>
+                        
+                        <div class="cspSocialIcons"><div class="cspSocIcons cspSocIconsLinks">
+    </div>
+
+<div class="cspSocIcons cspSocIconsOther">
+	</div>
+</div>
+                    </div>
+        <div style="position:fixed;right:5px; bottom:1px;"><a target="_blank" href="http://readyshoppingcart.com/product/coming-soon-plugin-pro-version/" title="Coming Soon Plugin" style="color:grey;font-size:6pt;text-decoration: none;">Coming Soon Plugin</a></div>	</body>
+</html>
